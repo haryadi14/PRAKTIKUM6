@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\chartb\bin\Debug\chartb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\chartb\bin\Debug\chartb.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\chartb\obj\Debug\chartb.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\chartb\obj\Debug\chartb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\chartb\obj\Debug\chartb.pdb

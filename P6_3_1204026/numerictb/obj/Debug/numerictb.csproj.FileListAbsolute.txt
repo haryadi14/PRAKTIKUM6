@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\numerictb\obj\Debug\numerictb.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\numerictb\bin\Debug\numerictb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\numerictb\bin\Debug\numerictb.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\numerictb\obj\Debug\numerictb.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\P6_3_1204026\numerictb\obj\Debug\numerictb.pdb

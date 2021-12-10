@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6_3_1204026", "P6_3_1204026\P6_3_1204026.csproj", "{87627316-2A62-4D82-BCDE-F3D6A073C866}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numerictb", "numerictb\numerictb.csproj", "{870BECA3-0E54-4C37-9F0C-970DF5087AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chartb", "chartb\chartb.csproj", "{DBE5C353-2007-4A20-8D35-EF81A8E98D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87627316-2A62-4D82-BCDE-F3D6A073C866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87627316-2A62-4D82-BCDE-F3D6A073C866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87627316-2A62-4D82-BCDE-F3D6A073C866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87627316-2A62-4D82-BCDE-F3D6A073C866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870BECA3-0E54-4C37-9F0C-970DF5087AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870BECA3-0E54-4C37-9F0C-970DF5087AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870BECA3-0E54-4C37-9F0C-970DF5087AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870BECA3-0E54-4C37-9F0C-970DF5087AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE5C353-2007-4A20-8D35-EF81A8E98D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE5C353-2007-4A20-8D35-EF81A8E98D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE5C353-2007-4A20-8D35-EF81A8E98D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE5C353-2007-4A20-8D35-EF81A8E98D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
